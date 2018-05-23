@@ -16,8 +16,12 @@ public class UserInput {
 	//nawewweweew
 	///lol
 	
+	public void dying() {}
+	
 	 public void playing() {}
 	public void walking() {
+		
+		
 		
 	}
 }
