@@ -14,5 +14,5 @@ public class UserInput {
 	}
 	
 	//nawewweweew
-	
+	public void newMethod() {}
 }
