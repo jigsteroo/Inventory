@@ -14,6 +14,10 @@ public class UserInput {
 	}
 	
 	//nawewweweew
-	public void newMethod() {}
-	public void newMethod() {}
+	///lol
+	
+	
+	public void walking() {
+		
+	}
 }
